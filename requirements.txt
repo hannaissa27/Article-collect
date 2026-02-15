@@ -1,0 +1,7 @@
+LIBRARIES:
+
+pandas
+requests
+urllib3
+python-dateutil
+openpyxl
